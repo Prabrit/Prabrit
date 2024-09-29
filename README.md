@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabrit Das</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/217e851a-68a4-44d6-ad88-f4f65ad2181a)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/1a0cb19a-eadb-4c9c-b1bc-43c76222042f">
 
 
 - 💬 Ask me about **C,C++,html,Css,Js**
