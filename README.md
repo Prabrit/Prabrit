@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabrit Das</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Prabrit/Prabrit/blob/main/Notion%20Gif.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
 
 - 📫 How to reach me: **prabritdas15@gmail.com**
 
