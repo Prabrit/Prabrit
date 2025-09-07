@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 - 📫 How to reach me: **prabritdas15@gmail.com**
-- 👩‍💻 You can also find me: prabritd.me
+- 👩‍💻 You can also find me: **prabritd.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
